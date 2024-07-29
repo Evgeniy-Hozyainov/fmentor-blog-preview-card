@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Links
 
 - Solution URL: [https://github.com/Evgeniy-Hozyainov/fmentor-blog-preview-card](https://github.com/Evgeniy-Hozyainov/fmentor-blog-preview-card)
-- Live Site URL: [https://github.com/Evgeniy-Hozyainov/fmentor-blog-preview-card](https://github.com/Evgeniy-Hozyainov/fmentor-blog-preview-card)
+- Live Site URL: [https://evgeniy-hozyainov.github.io/fmentor-blog-preview-card/](https://evgeniy-hozyainov.github.io/fmentor-blog-preview-card/)
 
 ## Built with
 
